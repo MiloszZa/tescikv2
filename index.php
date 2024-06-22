@@ -12,7 +12,7 @@ $conn = mysqli_connect('localhost', 'root', '', 'forumpsy');
 </head>
 <body>
     <header>
-        <h1>Forum miłośników psów</h1>
+        <h1>Forum miłośników </h1>
     </header>
     <main>
         <section class="lewy">
